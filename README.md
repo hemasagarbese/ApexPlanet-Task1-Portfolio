@@ -118,7 +118,7 @@ Personal-Portfolio/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Personal-Portfolio.git
+https://github.com/hemasagarbese/ApexPlanet-Task1-Portfolio
 ```
 
 ### Open Project
@@ -189,7 +189,7 @@ Aspiring Software Developer and Information Technology student at **JNTU-GV Coll
 
 # 📫 Contact
 
-**Name:** Hema Sagar Bese
+**Name:** BESE HEMA SAGAR
 
 📧 Email:
 hemasagarbese65@gmail.com
